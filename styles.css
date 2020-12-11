@@ -1,0 +1,20 @@
+Third way to apply CSS:
+External file of CSS
+
+
+body{
+    color:red
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: blue;
+}
+.CSS{
+    color: blueviolet;
+}
+#navigation{
+    color: chartreuse;
+}
+
